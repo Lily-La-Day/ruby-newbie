@@ -4,7 +4,7 @@ After finishing bootcamp I made a conscious decision not to attempt to learn a w
 
 I have a done little solo crash course over the last two days and am happy to have got very comfortably to the rock, paper, scissors (or cat, dog, human) level. I'm enjoying how explicit the OO-ness (object orientatedness in case that wasn't clear!) of Ruby is compared to JavaScript. 
 
-I will now be setting myself a slightly more tricky challenge so that I can better get to grips with the difference between procs and lambdas and such. Haven't decided exactly what yet but watch this space!
+I will now be setting myself a slightly more tricky challenge so that I can get a proper handle on the difference between procs and lambdas and such. Haven't decided exactly what yet but watch this space!
 
 And just in case it wasn't obvious:
 
